@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+---
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+excerpt: >
+  This is a test website.<br />
+feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "test"
+    title: "test"
+    excerpt: "T E S T------------T E S T"
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "test"
+    title: "another test"
+    excerpt: "test test test test test"
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "tttttt"
+    title: "tttttt"
+    excerpt: "oh my god"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"   
+---
 
-You can use the [editor on GitHub](https://github.com/nuaa-nlp/nuaa-nlp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+{% include feature_row %}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## NEWS
 
-- Bulleted
-- List
+- 2021/9/1
+- 2021/9/2
+- 2021/9/3
+- 2021/9/4
+- 2021/9/5
+- 2021/9/6
+- 2021/9/7
+- 2021/9/8
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nuaa-nlp/nuaa-nlp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
