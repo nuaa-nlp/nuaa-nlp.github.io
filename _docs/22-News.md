@@ -1,5 +1,0 @@
----
-layout: splash
-premelink: /omg/
----
-
