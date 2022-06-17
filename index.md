@@ -37,6 +37,6 @@ excerpt: >
 
 ## Research Fields:
 
-- **Nnatural Language Processing**: Pretrained Models, Summarization, Generation, Dialogue Systems, Grammatical Error Correction;
+- **Natural Language Processing**: Pretrained Models, Summarization, Generation, Dialogue Systems, Grammatical Error Correction;
 - **Multimodal AI**: Language-Vision Pretrained Models, Visual Dialogue & Storytelling;
 - **Trustworthy AI & NLP**: Adversarial Examples, Backdoor Attack, Interpretability & Explainability, Robustness & Transferability;
