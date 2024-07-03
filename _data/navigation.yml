@@ -22,14 +22,14 @@ foo:
 main:
   - title: "Home"
     url: /
-  - title: "News"
-    url: /News/
-  - title: "Research"
-    url: /Research/
-  - title: "Members"
-    url: /Members/
   - title: "Publications"
     url: /Publications/
+  - title: "Members"
+    url: /Members/
+  # - title: "News"  # 之后直接更新在index页中
+  #   url: /News/
+  # - title: "Research"
+  #   url: /Research/
   - title: "Contact"
     url: /Contact/
 
