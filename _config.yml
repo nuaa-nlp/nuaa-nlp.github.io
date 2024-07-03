@@ -11,10 +11,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NLP LAB"
+title                    : "NUAA NLP Lab"
 title_separator          : "-"
 subtitle                 : ""
-name                     : &name "NUAA NLP LAB" # &name is a YAML anchor which can be *referenced later
+name                     : &name "NUAA NLP Lab" # &name is a YAML anchor which can be *referenced later
 description              : &description "A LAB IN NANJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS."
 url                      : https://nuaa-nlp.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
