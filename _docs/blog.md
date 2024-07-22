@@ -1,11 +1,11 @@
 ---
+layout: splash
 title: "Blog"
 permalink: /Blog/
 excerpt: "layout"
-last_modified_at: 2021-06-07T08:48:05-04:00
-redirect_from:
-  - /theme-setup/
-toc: true
+# redirect_from:
+#   - /theme-setup/
+# toc: true
 ---
 
 - Apr. 2022: Pro.Li was invited talk about SongNet at NLGIW2022.

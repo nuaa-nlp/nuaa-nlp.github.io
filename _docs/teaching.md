@@ -3,7 +3,6 @@ layout: splash
 title: "Teaching"
 permalink: /Teaching/
 excerpt: "layout"
-last_modified_at: 2021-06-07T08:48:05-04:00
 ---
 
 - Apr. 2022: Pro.Li was invited talk about SongNet at NLGIW2022.
