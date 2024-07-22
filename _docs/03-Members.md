@@ -5,7 +5,6 @@ permalink: /Members/
 excerpt: "layout"
 hidden: true
 ---
-
 <br>
 # Members
 - Piji Li
