@@ -26,6 +26,8 @@ main:
     url: /Members/
   - title: "Publications"
     url: /Publications/
+  - title: "Teaching"
+    url: /Teaching/
   - title: "Blog"
     url: /Blog/
   
