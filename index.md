@@ -13,7 +13,6 @@ excerpt: >
 {% include feature_row %}
 
 # Research Fields:
-***
 * **Natural Language Processing**: Pretrained Models, Summarization, Generation, Dialogue Systems, Grammatical Error Correction
 * **Multimodal AI**: Language-Vision Pretrained Models, Visual Dialogue & Storytelling
 * **Neural Symbolic Computing**: Representation Learning, Reasoning
@@ -21,7 +20,6 @@ excerpt: >
 
 ***
 # About Us
-***
 ### Basic Information
 On June 1, 2021, the Natural Language Processing Laboratory (NUAA NLP LAB) of Nanjing University of Aeronautics and Astronautics began preparations. The laboratory leader is [Dr. Li Piji](https://lipiji.com/). The main research directions are natural language understanding, natural language generation, and trusted artificial intelligence (in collaboration with the Southern Airlines Intelligence and Security Laboratory).
 <!-- 2021年6月1日，南京航空航天大学自然语言处理实验室(NUAA NLP LAB)开始筹备。实验室Leader为李丕绩博士。主要研究大方向为自然语言理解、自然语言生成、可信人工智能 (与南航智能与安全实验室合作)等。 -->
@@ -34,7 +32,6 @@ The lab continues to recruit professors, associate professors, assistant profess
 
 ***
 # NEWS
-***
 * May. 2024: Two papers got accepted to ACL2024.
 * Feb. 2024: One paper got accepted to COLING2024.
 * Oct. 2023: Two papers got accepted to EMNLP2023.
