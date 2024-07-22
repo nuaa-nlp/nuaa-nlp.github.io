@@ -6,9 +6,8 @@ excerpt: "layout"
 last_modified_at: 2021-06-07T08:48:05-04:00
 hidden: true
 ---
-```json
-\n
-```
+
+<br>
 # Publications2
 [[Google Scholar](https://scholar.google.com/citations?user=88ZlyicAAAAJ&hl=en)]
 
