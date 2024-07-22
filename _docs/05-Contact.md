@@ -8,3 +8,4 @@ redirect_from:
   - /theme-setup/
 ---
 
+# Contact us
