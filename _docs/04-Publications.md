@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /Publications/
 excerpt: "layout"
 last_modified_at: 2021-06-07T08:48:05-04:00
-redirect_from:
-  - /theme-setup/
+hidden: true
 ---
 # Publications
 [[Google Scholar](https://scholar.google.com/citations?user=88ZlyicAAAAJ&hl=en)]

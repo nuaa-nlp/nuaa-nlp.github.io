@@ -3,6 +3,7 @@ layout: splash
 title: "Members"
 permalink: /Members/
 excerpt: "layout"
+hidden: true
 ---
 # Members
 - Piji Li
