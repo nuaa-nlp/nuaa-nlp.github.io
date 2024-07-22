@@ -19,6 +19,7 @@ excerpt: >
 * **Neural Symbolic Computing**: Representation Learning, Reasoning
 * **Trustworthy AI & NLP**: Adversarial Examples, Backdoor Attack, Interpretability & Explainability, Robustness & Transferability
 
+***
 # About Us
 ***
 ### Basic Information
@@ -31,6 +32,7 @@ I am a professor in the College of Computer Science and Technology at Nanjing Un
 
 The lab continues to recruit professors, associate professors, assistant professors, and postdoctoral fellows, and also welcomes students to come here to pursue master's and doctoral degrees.
 
+***
 # NEWS
 ***
 * May. 2024: Two papers got accepted to ACL2024.
