@@ -7,9 +7,9 @@ last_modified_at: 2021-06-07T08:48:05-04:00
 hidden: true
 ---
 ```json
-
+\n
 ```
-# Publications
+# Publications2
 [[Google Scholar](https://scholar.google.com/citations?user=88ZlyicAAAAJ&hl=en)]
 
 - Hanwei Wang, **Piji Li**, Yanan Cao, Ruipeng Jia, Wang Hai-long and Li Yang-chun. Decoupled Extractive Summarization as Graph Nodes Pruning. The 2022 International Joint Conference on Neural Networks (IJCNN'2022). Padua, Italy. July, 2022.
