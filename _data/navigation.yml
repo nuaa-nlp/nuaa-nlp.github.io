@@ -20,12 +20,15 @@ foo:
 
 # main links
 main:
-  - title: "Home"
-    url: /
-  - title: "Publications"
-    url: /Publications/
+  # - title: "Home"
+  #   url: /
   - title: "Members"
     url: /Members/
+  - title: "Publications"
+    url: /Publications/
+  - title: "Blog"
+    url: /Blog/
+  
   # - title: "News"  # 之后直接更新在index页中
   #   url: /News/
   # - title: "Research"
