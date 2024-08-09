@@ -11,7 +11,48 @@ hidden: true
 # Publications
 [[Google Scholar](https://scholar.google.com/citations?user=88ZlyicAAAAJ&hl=en)]
 
-- Hanwei Wang, **Piji Li**, Yanan Cao, Ruipeng Jia, Wang Hai-long and Li Yang-chun. Decoupled Extractive Summarization as Graph Nodes Pruning. The 2022 International Joint Conference on Neural Networks (IJCNN'2022). Padua, Italy. July, 2022.
+* **Neural Rating Regression with Abstractive Tips Generation for Recommendation**<br>Li Piji , Wang Zihao , Ren Zhaochun , Bing Lidong , Lam Wai<br>_Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval_<br>[[paper](https://dl.acm.org/doi/10.1145/3077136.3080822)]
+
+* **A unified model for opinion target extraction and target sentiment prediction**<br>Li Xin , Bing Lidong , Li Piji , Lam Wai<br>_Proceedings of the AAAI conference on artificial intelligence_<br>[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4643)]
+
+* **Aspect Term Extraction with History Attention and Selective Transformation**<br>Li Xin , Bing Lidong , Li Piji , Lam Wai , Yang Zhimou<br>[[paper](http://arxiv.org/abs/1805.00760)]
+
+* **Social Collaborative Viewpoint Regression with Explainable Recommendations**<br>Ren Zhaochun , Liang Shangsong , Li Piji , Wang Shuaiqiang , De Rijke Maarten<br>_Proceedings of the Tenth ACM International Conference on Web Search and Data Mining_<br>[[paper](https://dl.acm.org/doi/10.1145/3018661.3018686)]
+
+* **Deep Recurrent Generative Decoder for Abstractive Text Summarization**<br>Li Piji , Lam Wai , Bing Lidong , Wang Zihao<br>[[paper](http://arxiv.org/abs/1708.00625)]
+
+* **Abstractive Multi-Document Summarization via Phrase Selection and Merging**<br>Bing Lidong , Li Piji , Liao Yi , Lam Wai , Guo Weiwei , Passonneau Rebecca J.<br>[[paper](http://arxiv.org/abs/1506.01597)]
+
+* **Knowledge bridging for empathetic dialogue generation**<br>Li Qintong , Li Piji , Ren Zhaochun , Ren Pengjie , Chen Zhumin<br>_Proceedings of the AAAI conference on artificial intelligence_<br>[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21347)]
+
+* **CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding**<br>Wang Dong , Ding Ning , Li Piji , Zheng Hai-Tao<br>[[paper](http://arxiv.org/abs/2107.00440)]
+
+* **Exclusive Hierarchical Decoding for Deep Keyphrase Generation**<br>Chen Wang , Chan Hou Pong , Li Piji , King Irwin<br>[[paper](http://arxiv.org/abs/2004.08511)]
+
+* **Generating distractors for reading comprehension questions from real examinations**<br>Gao Yifan , Bing Lidong , Li Piji , King Irwin , Lyu Michael R.<br>_Proceedings of the AAAI Conference on Artificial Intelligence_<br>[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4606)]
+
+* **Salience estimation via variational auto-encoders for multi-document summarization**<br>Li Piji , Wang Zihao , Lam Wai , Ren Zhaochun , Bing Lidong<br>_Proceedings of the AAAI Conference on Artificial Intelligence_<br>[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11007)]
+
+* **Abstractive text summarization by incorporating reader comments**<br>Gao Shen , Chen Xiuying , Li Piji , Ren Zhaochun , Bing Lidong , Zhao Dongyan , Yan Rui<br>_Proceedings of the AAAI Conference on Artificial Intelligence_<br>[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4603)]
+
+* **Storytelling from an image stream using scene graphs**<br>Wang Ruize , Wei Zhongyu , Li Piji , Zhang Qi , Huang Xuanjing<br>_Proceedings of the AAAI Conference on Artificial Intelligence_<br>[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6455)]
+
+* **An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction**<br>Chen Wang , Chan Hou Pong , Li Piji , Bing Lidong , King Irwin<br>[[paper](http://arxiv.org/abs/1904.03454)]
+
+* **Actor-Critic based Training Framework for Abstractive Summarization**<br>Li Piji , Bing Lidong , Lam Wai<br>[[paper](http://arxiv.org/abs/1803.11070)]
+
+* **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling**<br>Gao Yifan , Li Piji , King Irwin , Lyu Michael R.<br>[[paper](http://arxiv.org/abs/1906.06893)]
+
+* **Rigid formats controlled text generation**<br>Li Piji , Zhang Haisong , Liu Xiaojiang , Shi Shuming<br>_Proceedings of the 58th annual meeting of the association for computational linguistics_<br>[[paper](https://aclanthology.org/2020.acl-main.68/)]
+
+* **Reader-Aware Multi-Document Summarization via Sparse Coding**<br>Li Piji , Bing Lidong , Lam Wai , Li Hang , Liao Yi<br>[[paper](http://arxiv.org/abs/1504.07324)]
+
+* **A Question Type Driven Framework to Diversify Visual Question Generation.**<br>Fan Zhihao , Wei Zhongyu , Li Piji , Lan Yanyan , Huang Xuanjing<br>_IJCAI_<br>[[paper](https://www.ijcai.org/proceedings/2018/0563.pdf)]
+
+* **Cascaded attention based unsupervised information distillation for compressive summarization**<br>Li Piji , Lam Wai , Bing Lidong , Guo Weiwei , Li Hang<br>_Proceedings of the 2017 conference on empirical methods in natural language processing_<br>[[paper](https://aclanthology.org/D17-1221/)]
+
+
+<!-- - Hanwei Wang, **Piji Li**, Yanan Cao, Ruipeng Jia, Wang Hai-long and Li Yang-chun. Decoupled Extractive Summarization as Graph Nodes Pruning. The 2022 International Joint Conference on Neural Networks (IJCNN'2022). Padua, Italy. July, 2022.
 - Chen Xu, **Piji Li**, Wei Wang, Haoran Yang, Siyun Wang, Chuangbai Xiao. **COSPLAY:Concept Set Guided Personalized Dialogue Generation Across Both Party Personas**. *The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22)*. July. 2022. [[PDF](http://lipiji.com/)]
 - Qintong Li, **Piji Li**, Wei Bi, Zhaochun Ren, Yuxuan Lai, Lingpeng Kong. **Event Transition Planning for Open-ended Text Generation**. *The 60th Annual Meeting of the Association for Computational Linguistics (Findings of ACL'22)*. Aug. 2022. [[PDF](http://lipiji.com/)]
 - Yong Dai, Linyang Li, Cong Zhou, Zhangyin Feng, Enbo Zhao, Xipeng Qiu, **Piji Li**, Duyu Tang. **"Is Whole Word Masking Always Better for Chinese BERT?": Probing on Chinese Grammatical Error Correction**. *The 60th Annual Meeting of the Association for Computational Linguistics (Findings of ACL'22)*. Aug. 2022. [[PDF](http://lipiji.com/)]
@@ -71,4 +112,4 @@ hidden: true
 - Lei Zhang, Jun Ma, Chaoran Cui, **Piji Li**. **Active learning through notes data in flickr: an effortless training data acquisition approach for object localization**. *Proceedings of the 1st ACM International Conference on Multimedia Retrieval (ICMR'11)*. Trento , Italy. Apr. 2011.
 - Lei Zhang, **Piji Li**, Jun Ma. **A hybrid unsupervised image re-ranking approach with latent topic contents**. *Proceedings of the ACM International Conference on Image and Video Retrieval (CIVR'10)*. Jul 2010.
 - **Piji Li**, Lei Zhang, Jun Ma. **Dual-ranking for web image retrieval**. *Proceedings of the ACM International Conference on Image and Video Retrieval (CIVR'10)*. Jul 2010.
-- **Piji Li**, Jun Ma. **Learning to rank for web image retrieval based on genetic programming**. *Proceedings of the 2nd IEEE International Conference on Broadband Network & Multimedia Technology (BNMT'09)*. Oct 2009.
+- **Piji Li**, Jun Ma. **Learning to rank for web image retrieval based on genetic programming**. *Proceedings of the 2nd IEEE International Conference on Broadband Network & Multimedia Technology (BNMT'09)*. Oct 2009. -->
