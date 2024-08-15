@@ -9,7 +9,6 @@ hidden: true
 <br>
 # Contact us
 
-# Contact
 We are looking for motivated students who are enthusiastic about natural language processing and machine learning to join our group. If you are interested in our research, feel free to reach out to us! (see below for details)
 
 ## PhD students
