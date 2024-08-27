@@ -16,19 +16,23 @@ hidden: true
   - Professor
   - [Homepage](http://lipiji.com/)
 
-## Doctorate Student
-
-* Bo Zhang
-
-## Secone-Grade Master Student
-
+## Thrid-Grade Master Student
 - [Xuanfan Ni](https://patrick-ni.github.io/)
 - Xi Wang
 - Fan Yuan
 - Ruoqing Zhao
 - Yang Cao
 
+## Second-Grade Master Student
+* Congchi Yin
+* Feiyan Zhai
+* Shuo Wang
+* RenZhi Wang
+* RunZe Xia
+
+
 ## First-Grade Master Student
+* Bo Zhang
 * Yongpeng Zhang
 * Zexuan Li
 * Yingying Ma
@@ -36,4 +40,6 @@ hidden: true
 * Xuanxin Bu
 * Yangsong Lan
 * Guanyun Zou
+* YingYing Ma
+* HaiYang Ou
 
